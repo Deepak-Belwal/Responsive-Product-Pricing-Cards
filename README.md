@@ -1,6 +1,6 @@
-# Meadowdesk | Plans and pricing
+# Myplans | Plans and pricing
 
-InternCircle Fullstack Web Development, Project 03. Meadowdesk is a fictional project planning workspace. Its prices and features are demo content.
+InternCircle Fullstack Web Development, Project 03. Myplans is a fictional project planning workspace. Its prices and features are demo content.
 
 ## Run locally
 
